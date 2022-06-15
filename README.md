@@ -16,7 +16,7 @@ This project provides Oracle Database support on top of rails-dev-box.
 
 Building the virtual machine is this easy:
 
-* Download [Oracle Database 11g Express Edition](http://www.oracle.com/technetwork/products/express-edition/overview/index.html) for Linux x64. The file name is `oracle-xe-11.2.0-1.0.x86_64.rpm.zip`.
+* Download [Oracle Database 11g Express Edition](https://www.oracle.com/database/technologies/xe-prior-release-downloads.html) for Linux x64. The file name is `oracle-xe-11.2.0-1.0.x86_64.rpm.zip`.
 
 ```sh
     host $ git clone -b runs_oracle https://github.com/yahonda/rails-dev-box.git
